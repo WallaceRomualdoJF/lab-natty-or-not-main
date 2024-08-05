@@ -60,13 +60,7 @@ Um agente de IA bem projetado pode utilizar uma variedade de perguntas para inic
 
 2. Emoção e Empatia: Embora os avatares digitais possam simular emoções, a verdadeira empatia é um desafio complexo. É importante que os desenvolvedores sejam cuidadosos ao programar as respostas emocionais da IA, evitando a criação de expectativas irreais.
 
-3. Contexto: A IA deve ser capaz de entender o contexto da conversa para fornecer respostas relevantes. Isso inclui o conhecimento do mundo real, a história da conversa e as informações específicas do usuário
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+3. Contexto: A IA deve ser capaz de entender o contexto da conversa para fornecer respostas relevantes. Isso inclui o conhecimento do mundo real, a história da conversa e as informações específicas do usuário.
 
 ## Links Interessantes
 
